@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: lucas
+Build-Jdk: 9.0.4
+Implementation-Title: proyecto-entrevista
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.imagosur.dev
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/proyecto-entrevista
+Created-By: Maven Integration for Eclipse
+
